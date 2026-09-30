@@ -17,7 +17,7 @@ How do encounter types and insurance payers influence healthcare revenue, utiliz
 
 ## Dashboard
 
-![Healthcare Revenue and Utilization Dashboard](PR3-HEALTHCARE-REVENUE.jpg)
+![Healthcare Revenue and Utilization Dashboard](images/PR3-HEALTHCARE-REVENUE.jpg)
 
 ## Key Insights
 
